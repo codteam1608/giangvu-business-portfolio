@@ -1,13 +1,12 @@
-
 # Resume
 
-## Professional Profile
+## Professional Summary
 
-Business Analyst and Solution Consultant with over 8 years of experience delivering software solutions for international customers.
+Business Analyst and Solution Consultant with over **8 years of experience** helping international customers transform business requirements into practical software solutions.
 
-My expertise spans Business Analysis, Solution Consulting, Requirement Engineering, Workflow Design, and Project Coordination across Web-to-Print, eCommerce, Warehouse Management Systems, and AI-powered workflow automation.
+My expertise includes Business Analysis, Solution Consulting, Requirement Engineering, Workflow Design, and Project Coordination across Web-to-Print, eCommerce, Warehouse Management Systems, and AI-powered workflow automation.
 
-I specialize in understanding business problems, translating requirements into implementation-ready specifications, and bridging communication between business stakeholders and technical teams.
+I enjoy bridging the gap between business objectives and technical implementation by designing structured, scalable, and implementation-ready solutions.
 
 ---
 
@@ -16,56 +15,52 @@ I specialize in understanding business problems, translating requirements into i
 * Business Analysis
 * Solution Consulting
 * Requirement Engineering
+* Business Process Analysis
 * Workflow Design
 * Functional Specification
-* Project Coordination
 * Stakeholder Management
+* Project Coordination
 * AI Workflow Automation
 
 ---
 
-## Professional Experience
+## Featured Experience
 
-### Independent Solution Consultant
+### Independent Solution Consultant (2025 – Present)
 
-2025 – Present
-
-* Warehouse Management System (WMS)
-* AI Workflow Automation
-* Business Analysis
-* Solution Design
+* Designed a Warehouse Management System (WMS) MVP for a real agricultural distribution business.
+* Built AI-powered workflow automation solutions using n8n and Large Language Models (LLMs).
+* Produced business workflows, functional specifications, business rules, and implementation planning documents.
 
 ---
 
-### PrintCart
+### Solution Consultant | Project Coordinator
 
-**Solution Consultant | Project Coordinator**
-2021 – 2025
+**PrintCart (2021 – 2025)**
 
-* Solution Consulting
-* Business Analysis
-* Requirement Engineering
-* Project Delivery
+* Worked with international customers to analyze business requirements and propose software solutions.
+* Coordinated software customization projects throughout the delivery lifecycle.
+* Contributed to a USD 10,000+ Node.js-based Web-to-Print platform migration project.
 
 ---
 
-### NETBASE CMSMART
+### Customer Support Specialist | Support Manager
 
-**Customer Support Specialist | Support Manager**
-2015 – 2021
+**NETBASE CMSMART (2015 – 2021)**
 
-* Technical Support
-* Customer Success
-* Team Management
-* Process Improvement
+* Supported more than 20,000 international customers.
+* Led and mentored a customer support team of 6–8 members.
+* Collaborated with development teams to improve product quality and customer experience.
 
 ---
 
 ## Portfolio
 
-* Warehouse Management System
-* Web-to-Print Platform
-* AI Workflow Automation
+Explore detailed case studies included in this portfolio:
+
+* 📦 Warehouse Management System (WMS)
+* 🖨️ Web-to-Print Product Ecosystem
+* 🤖 AI Workflow Automation
 
 ---
 
@@ -75,4 +70,4 @@ I specialize in understanding business problems, translating requirements into i
 
 **LinkedIn:** linkedin.com/in/giangvv
 
-**Email:** Available upon request.
+**Email:** [giangvv.cntt@gmail.com](mailto:giangvv.cntt@gmail.com)
