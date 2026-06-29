@@ -1,55 +1,50 @@
-# Projects
+# Project Library
 
-Welcome to my project portfolio.
+This section contains selected Business Analysis and Solution Consulting case studies.
 
-This section showcases selected Business Analysis and Solution Consulting case studies, demonstrating how business challenges are transformed into practical software solutions through structured analysis, workflow design, and implementation planning.
-
-Each project reflects a real business scenario and highlights my approach to understanding business problems, defining requirements, designing solutions, and creating implementation-ready documentation.
+Each project represents a real business scenario and demonstrates my approach to analyzing business problems, designing practical solutions, and preparing implementation-ready documentation.
 
 ---
 
-## Featured Projects
+## Available Case Studies
 
-### 📦 Warehouse Management System (WMS) MVP
+### 📦 Warehouse Management System (WMS)
 
-Designed a complete Business Analysis blueprint for a real agricultural distribution business, covering business processes, workflow design, business rules, functional specifications, and implementation planning.
+Business Analysis and Solution Design for an agricultural distribution business.
 
-**Focus Areas**
+**Highlights**
 
-* Business Analysis
-* Workflow Design
-* Business Rules
-* Functional Specification
-* Solution Consulting
+• Business Analysis
+• Workflow Design
+• Business Rules
+• Functional Specification
 
-➡️ View Project: `wms`
+➡️ Read Case Study
 
 ---
 
 ### 🖨️ Web-to-Print Product Ecosystem
 
-Contributed to multiple Web-to-Print product lines, including a WooCommerce plugin, a SaaS platform, and an embedded design solution, helping international customers transform business requirements into scalable software solutions.
+Business Analysis and Solution Consulting across three Web-to-Print product lines.
 
-**Focus Areas**
+**Highlights**
 
-* Solution Consulting
-* Requirement Engineering
-* Business Analysis
-* Project Coordination
+• Solution Consulting
+• Requirement Engineering
+• Project Coordination
 
-➡️ View Project: `web2print`
+➡️ Read Case Study
 
 ---
 
 ### 🤖 AI Workflow Automation
 
-Designed AI-powered workflow automation solutions that combine Large Language Models (LLMs) and no-code automation platforms to improve operational efficiency and streamline business processes.
+AI-powered business workflow automation using n8n and Large Language Models (LLMs).
 
-**Focus Areas**
+**Highlights**
 
-* AI Workflow Automation
-* Business Analysis
-* Process Optimization
-* Solution Design
+• AI Workflow Automation
+• Process Optimization
+• Solution Design
 
-➡️ View Project: `ai-workflow`
+➡️ Read Case Study
