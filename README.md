@@ -16,6 +16,15 @@ Each case study demonstrates my approach to understanding business problems, des
 
 ---
 
+# Quick Navigation
+
+- 📦 [Warehouse Management System](projects/wms)
+- 🖨️ [Web-to-Print Product Ecosystem](projects/web2print)
+- 🤖 [AI Workflow Automation](projects/ai-workflow)
+- 📄 [Professional Resume](resume)
+  
+---
+
 # Portfolio Highlights
 
 * **8+ Years** in the Software Industry
