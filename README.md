@@ -1,67 +1,85 @@
 # Giang Vu
 
-Business Analyst | Solution Consultant
+## Business Analyst | Solution Consultant
 
-Turning Business Requirements into Practical Software Solutions.
+**Turning Business Requirements into Practical Software Solutions**
 
 ---
 
-## About
+## Welcome
 
-I'm a Business Analyst and Solution Consultant with 8+ years of experience helping international clients transform business requirements into practical software solutions.
+Welcome to my Business Portfolio.
 
-My expertise includes:
+This repository showcases selected Business Analysis and Solution Consulting projects that demonstrate how business challenges are transformed into practical, implementation-ready software solutions through structured analysis, workflow design, and stakeholder collaboration.
 
-- Business Analysis
-- Solution Consulting
-- Requirement Engineering
-- Workflow Design
-- Project Coordination
-- AI Workflow Automation
+---
+
+## Portfolio Highlights
+
+* **8+ Years** in Software Industry
+* **20,000+** Global Customers Supported
+* **Warehouse Management System (WMS) MVP**
+* **Web-to-Print Platform Migration**
+* **AI Workflow Automation with n8n**
 
 ---
 
 ## Featured Projects
 
-### Warehouse Management System (WMS)
+### 📦 Warehouse Management System (WMS)
 
-Business Analysis, workflow design, business rules, UI specification, and implementation-ready documentation for an agricultural distribution business.
+Designed a Warehouse Management System MVP for a real agricultural distribution business, covering business workflows, business rules, inventory management, order processing, warehouse operations, and implementation planning.
 
-→ View Project
-
----
-
-### Web-to-Print Platform
-
-Large-scale Web-to-Print solution serving international customers with quotation analysis, requirement engineering, and project delivery.
-
-→ View Project
+➡️ **View Case Study:** `projects/wms`
 
 ---
 
-### AI Workflow Automation
+### 🖨️ Web-to-Print Platform
 
-Business workflow automation using AI and n8n to improve operational efficiency.
+Provided Solution Consulting, Requirement Engineering, Project Coordination, and customer communication for international Web-to-Print software projects, including a successful Node.js platform migration.
 
-→ View Project
-
----
-
-## Skills
-
-- Business Analysis
-- Solution Consulting
-- Requirement Engineering
-- Workflow Design
-- Project Coordination
-- AI Automation
+➡️ **View Case Study:** `projects/web2print`
 
 ---
 
-## Contact
+### 🤖 AI Workflow Automation
 
-LinkedIn
+Designed AI-powered workflow automation solutions using n8n and modern AI tools to streamline business processes, improve productivity, and reduce repetitive manual work.
 
-Email
+➡️ **View Case Study:** `projects/ai-workflow`
 
-Location: Hanoi, Vietnam
+---
+
+## Core Expertise
+
+* Business Analysis
+* Solution Consulting
+* Requirement Engineering
+* Workflow Design
+* Business Process Modeling
+* Functional Specification
+* Stakeholder Management
+* Project Coordination
+* AI Workflow Automation
+
+---
+
+## Professional Focus
+
+I enjoy solving complex business problems by bridging the gap between business needs and technical implementation.
+
+My work focuses on understanding business objectives, simplifying workflows, defining clear requirements, and delivering software solutions that balance business value, technical feasibility, implementation cost, and project timeline.
+
+---
+
+## Connect
+
+📍 **Location:** Hanoi, Vietnam
+
+💼 **LinkedIn:** https://linkedin.com/in/giangvv
+
+📧 **Email:** [giangvv.cntt@gmail.com](mailto:giangvv.cntt@gmail.com)
+
+---
+
+> *"Successful software is not built by adding more features—it is built by solving the right business problems."*
