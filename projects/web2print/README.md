@@ -4,70 +4,80 @@
 
 A large-scale Web-to-Print platform serving international printing businesses, enabling customers to personalize products online and place print-ready orders through an automated workflow.
 
-The project involved translating complex customer requirements into scalable software solutions while coordinating implementation across business and technical teams.
+The project focused on translating complex business requirements into practical software solutions while balancing customer expectations, technical feasibility, implementation cost, and project delivery.
 
 ---
 
 ## Business Challenge
 
-Customers required highly customized Web-to-Print solutions with different business rules, production workflows, pricing models, and user experiences.
+International customers required highly customized Web-to-Print solutions with different business models, production workflows, pricing strategies, and user experiences.
 
-The main challenges included:
+Key challenges included:
 
-* Complex and frequently changing business requirements
-* Large number of customization requests
-* Communication between international customers and development teams
-* Balancing customer expectations with technical feasibility and project budget
+* Complex and evolving business requirements
+* Large volume of customization requests
+* Communication across international customers and development teams
+* Balancing business needs with technical feasibility and project budget
 
 ---
 
 ## Solution
 
-Worked closely with international customers to analyze business requirements, define solution approaches, and coordinate software delivery throughout the project lifecycle.
+Worked closely with international customers to understand business objectives, analyze requirements, propose appropriate solutions, and coordinate successful project delivery.
 
 Key solution areas included:
 
-* Business Requirement Analysis
+* Business Analysis
 * Solution Consulting
 * Requirement Engineering
 * Functional Specification
 * Project Coordination
 * Change Request Management
-* Delivery Planning
+* Solution Proposal & Estimation
 
 ---
 
 ## My Responsibilities
 
 * Analyzed and clarified business requirements from international customers.
-* Designed software solutions for customization projects.
-* Prepared quotations, project scope, and implementation estimates.
-* Coordinated communication between customers, developers, QA, and sales teams.
-* Managed requirement changes throughout project execution.
-* Ensured business requirements were accurately translated into implementation-ready specifications.
+* Proposed software solutions aligned with customer business objectives.
+* Prepared solution proposals, project scope, quotations, and implementation estimates.
+* Coordinated communication between customers, developers, QA, and sales teams throughout the project lifecycle.
+* Managed requirement changes while maintaining business and technical alignment.
+* Ensured business requirements were translated into implementation-ready specifications.
 
 ---
 
 ## Key Achievement
 
-Successfully contributed to the delivery of a large-scale Node.js-based Web-to-Print platform migration project valued at over **USD 10,000**, while supporting numerous software customization projects for global customers.
+Contributed to the successful delivery of a **USD 10,000+ Node.js-based Web-to-Print platform migration project**, while supporting numerous software customization projects for international customers.
 
 ---
 
 ## Technologies & Domain
 
+### Business Domains
+
 * Web-to-Print
 * eCommerce
-* Node.js
-* WordPress
-* WooCommerce
+* Online Printing Solutions
+
+### Core Competencies
+
 * Business Analysis
 * Solution Consulting
 * Requirement Engineering
 * Project Coordination
+* Stakeholder Management
+
+### Platforms
+
+* Node.js
+* WordPress
+* WooCommerce
 
 ---
 
 ## Business Value
 
-The solutions delivered helped customers improve online ordering efficiency, reduce manual processing, streamline print production workflows, and support business growth through scalable software customization.
+The proposed solutions helped customers streamline online ordering, reduce manual operations, improve production efficiency, and support business growth through scalable software customization.
