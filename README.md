@@ -4,59 +4,80 @@
 
 **Turning Business Requirements into Practical Software Solutions**
 
----
-
-## Welcome
-
-Welcome to my Business Portfolio.
-
-This repository showcases selected Business Analysis and Solution Consulting projects that demonstrate how business challenges are transformed into practical, implementation-ready software solutions through structured analysis, workflow design, and stakeholder collaboration.
+Helping businesses transform complex requirements into scalable, implementation-ready software solutions through Business Analysis, Solution Consulting, Requirement Engineering, and Workflow Design.
 
 ---
 
-## Portfolio Highlights
+# Business Portfolio
 
-* **8+ Years** in Software Industry
+This portfolio showcases selected Business Analysis and Solution Consulting case studies based on real-world software projects.
+
+Each case study demonstrates my approach to understanding business problems, designing practical solutions, and producing implementation-ready documentation that bridges business needs with technical execution.
+
+---
+
+# Portfolio Highlights
+
+* **8+ Years** in the Software Industry
 * **20,000+** Global Customers Supported
-* **Warehouse Management System (WMS) MVP**
-* **Web-to-Print Platform Migration**
-* **AI Workflow Automation with n8n**
+* Business Analysis & Solution Consulting
+* Warehouse Management System (WMS)
+* Web-to-Print Product Ecosystem
+* AI Workflow Automation
 
 ---
 
-## Featured Projects
+# Featured Case Studies
 
-### 📦 Warehouse Management System (WMS)
+## 📦 Warehouse Management System (WMS)
 
-Designed a Warehouse Management System MVP for a real agricultural distribution business, covering business workflows, business rules, inventory management, order processing, warehouse operations, and implementation planning.
+Designed a complete Business Analysis blueprint for an agricultural distribution business, including business workflows, business rules, functional specifications, UI design, and implementation planning.
 
-➡️ **View Case Study:** `projects/wms`
+**Key Skills**
 
----
+Business Analysis • Workflow Design • Business Rules • Functional Specification • Solution Consulting
 
-### 🖨️ Web-to-Print Platform
-
-Provided Solution Consulting, Requirement Engineering, Project Coordination, and customer communication for international Web-to-Print software projects, including a successful Node.js platform migration.
-
-➡️ **View Case Study:** `projects/web2print`
+➡️ Explore: `projects/wms`
 
 ---
 
-### 🤖 AI Workflow Automation
+## 🖨️ Web-to-Print Product Ecosystem
 
-Designed AI-powered workflow automation solutions using n8n and modern AI tools to streamline business processes, improve productivity, and reduce repetitive manual work.
+Delivered Solution Consulting and Business Analysis across three Web-to-Print product lines:
 
-➡️ **View Case Study:** `projects/ai-workflow`
+* WooCommerce Plugin
+* React / Next.js SaaS Platform
+* Node.js Embedded Design Solution
+
+Worked closely with international customers to translate business requirements into scalable software solutions.
+
+**Key Skills**
+
+Solution Consulting • Requirement Engineering • Project Coordination • Business Analysis
+
+➡️ Explore: `projects/web2print`
 
 ---
 
-## Core Expertise
+## 🤖 AI Workflow Automation
+
+Designed AI-powered workflow automation solutions using n8n, ChatGPT, Claude, Cursor AI, and Large Language Models (LLMs) to automate business processes and improve operational efficiency.
+
+**Key Skills**
+
+AI Workflow Automation • Business Analysis • Process Optimization • Solution Design
+
+➡️ Explore: `projects/ai-workflow`
+
+---
+
+# Core Expertise
 
 * Business Analysis
 * Solution Consulting
 * Requirement Engineering
+* Business Process Analysis
 * Workflow Design
-* Business Process Modeling
 * Functional Specification
 * Stakeholder Management
 * Project Coordination
@@ -64,22 +85,18 @@ Designed AI-powered workflow automation solutions using n8n and modern AI tools 
 
 ---
 
-## Professional Focus
+# Professional Philosophy
 
-I enjoy solving complex business problems by bridging the gap between business needs and technical implementation.
+Successful software is built by solving the right business problems—not by adding more features.
 
-My work focuses on understanding business objectives, simplifying workflows, defining clear requirements, and delivering software solutions that balance business value, technical feasibility, implementation cost, and project timeline.
-
----
-
-## Connect
-
-📍 **Location:** Hanoi, Vietnam
-
-💼 **LinkedIn:** https://linkedin.com/in/giangvv
-
-📧 **Email:** [giangvv.cntt@gmail.com](mailto:giangvv.cntt@gmail.com)
+I enjoy bridging business objectives with technical implementation by delivering practical, scalable, and maintainable software solutions that balance business value, technical feasibility, implementation cost, and delivery timeline.
 
 ---
 
-> *"Successful software is not built by adding more features—it is built by solving the right business problems."*
+# Connect
+
+📍 Hanoi, Vietnam
+
+💼 LinkedIn: linkedin.com/in/giangvv
+
+📧 Email: [giangvv.cntt@gmail.com](mailto:giangvv.cntt@gmail.com)
